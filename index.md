@@ -2,9 +2,7 @@
 layout: default
 title: "Send as POST"
 ---
-## Send as POST
-
-Send as POST is an app for iOS and macOS that adds a share extension to images and web pages.
+**Send as POST** is an app for iOS and macOS that adds a share extension to images and web pages.
 
 Sharing via Send as POST will create a POST request with these parameters:
 

@@ -68,6 +68,9 @@ html {
     width: 18rem;
     text-align: left;
   }
+  .sidebar-about {
+    padding-bottom: 5rem;
+  }
 }
 
 /* Sidebar links */
@@ -79,7 +82,6 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
 
@@ -122,8 +124,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    3rem;
+  padding-bottom: 3rem;
 }
 
 @media (min-width: 48em) {
