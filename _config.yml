@@ -9,4 +9,7 @@ baseurl: "/"
 ios:
   download: "https://itunes.apple.com/us/app/send-as-post/id1321569808?ls=1&mt=8"
   github: "https://github.com/SendAsPost/SendAsPOST"
+macos:
+  download: "https://itunes.apple.com/us/app/send-as-post/id1323106844?ls=1&mt=8"
+  github: "https://github.com/SendAsPost/SendAsPOSTMac"
 sitesource: "https://github.com/SendAsPost/sendaspost.com"
