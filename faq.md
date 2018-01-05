@@ -15,3 +15,7 @@ It depends on what you're sharing. See the [home page](/) for details.
 ### Does **Send as POST** save or send any data?
 
 Nope. See the [privacy page](/privacy).
+
+### What's the motivation behind this project?
+
+See [this post](https://andybrett.com/writing/send-as-post).
